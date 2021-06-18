@@ -32,4 +32,8 @@
     
 ## Execução
   
+  FastAPI:
   uvicorn FastAPI:app --reload
+  
+  FastAPILogin:
+  python FastAPILogin.py
